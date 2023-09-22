@@ -1,0 +1,7 @@
+﻿  Socket.cpp
+  Transferts.cpp
+C:\Users\Michael\Documents\UQAC 2020-2023\S4 - Hivers 2022\GEN723 - Reseau\Devoirs\Projet_Final\MUNM07039500_ProjetFinal\Final_Reseau\Transferts.cpp(10,54): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Client.cpp
+  Main.cpp
+  Génération de code en cours...
+  Final Reseau Client.vcxproj -> C:\Users\Michael\Documents\UQAC 2020-2023\S4 - Hivers 2022\GEN723 - Reseau\Devoirs\Projet_Final\MUNM07039500_ProjetFinal\Final_Reseau\x64\Debug\Final Reseau Client.exe
